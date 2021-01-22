@@ -110,13 +110,13 @@ body {
 }
 
 .a6:nth-child(2)::before {
-  background-image: url("/img/facebook.svg");
+  background-image: url("/img/Facebook.svg");
 }
 
 .a6:nth-child(3)::before {
-  background-image: url("/img/Telegram.svg");
+  background-image: url("/img/telegram.svg");
 }
 
 .a6:nth-child(4)::before {
-  background-image: url("/img/Behance.svg");
+  background-image: url("/img/behance.svg");
 }
