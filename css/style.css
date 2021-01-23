@@ -6,16 +6,9 @@
 }
 
 body {
-  background-color: red;
+  background-color: rgb(0, 0, 0);
 }
 
-#myVideo {
-  position: fixed;
-  right: 0;
-  bottom: 0;
-  min-width: 100%;
-  min-height: 100%;
-}
 
 .a1 {
   display: -webkit-box;
@@ -128,3 +121,12 @@ body {
   background-image: url("/img/behance.svg");
 }
 
+@media screen and (max-width: 900px){
+.backgrounx {
+visibility: hidden;
+}
+.a2 {
+  width: 355px;
+  height: 400px;
+}
+}
